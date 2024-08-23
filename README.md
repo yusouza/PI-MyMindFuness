@@ -20,12 +20,9 @@ Este projeto foi desenvolvido como parte do curso de Análise e desenvolvimento 
 
 <h3>Autores</h3>
 <a href="https://github.com/YuriSouzaS/">Yuri Souza</a> - Desenvolvedor FullStack <br />
-
-<a href="https://github.com/leide-cardozo/">Leide Cardoso</a> - Desenvolvedora Front-end
-
-<a href="https://github.com/WillianRD/"> William Sapucaia</a> - Desenvolvedor Back-end
-
-<a href="#">Jordan Oliveira</a> - Desenvolvedor Front-end 
+<a href="https://github.com/leide-cardozo/">Leide Cardoso</a> - Desenvolvedora Front-end <br />
+<a href="https://github.com/WillianRD/"> William Sapucaia</a> - Desenvolvedor Back-end <br />
+<a href="#">Jordan Oliveira</a> - Desenvolvedor Front-end <br />
 
 <h3>Agradecimentos</h3>
 Agradecemos à Anhanguera pela oportunidade de desenvolver este projeto e aos nossos professores e colegas pela orientação e apoio.
