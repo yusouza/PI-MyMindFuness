@@ -25,7 +25,6 @@ Este projeto foi desenvolvido como parte do curso de Análise e desenvolvimento 
 
 <a href="https://github.com/WillianRD/"> William Sapucaia</a> - Desenvolvedor Back-end
 
-
 <a href="#">Jordan Oliveira</a> - Desenvolvedor Front-end 
 
 <h3>Agradecimentos</h3>
