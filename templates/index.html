@@ -1,0 +1,17 @@
+<!-- importação da estrutura base do HTML -->
+{% extends 'layout/base.html' %}
+
+<!-- estrura equivalente ao head do HTML -->
+{% block head %} 
+
+    <!-- link de importação do css -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css') }}">
+{% endblock %}
+
+<!-- estrura equivalente ao title do HTML -->
+{% block title %} index {% endblock %}
+
+<!-- estrura equivalente ao body do HTML -->
+{% block body %} 
+    <!-- Conteúdo do body, aqui -->
+{% endblock %}
